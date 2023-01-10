@@ -28,14 +28,20 @@ git diff | mostra as alterações de um arquivo\
 ### SHEL
 
 #### SE
+´´´
 if []; then
 fi
-
-
+´´´
 
 #### SE/SENAO
+´´´
 if []; then
 else
 fi
+´´´
 
 ##### FUNCTION
+´´´
+function nome_da_funcao () {
+}
+´´´
