@@ -21,3 +21,12 @@ status |  exibe o estado do diretório de trabalho e da área de preparação\
 commit |  é usado para salvar suas alterações no repositório local\
 push | empurra commit ate a nuvem\
 git diff | mostra as alterações de um arquivo\
+
+
+## formas 
+
+## she
+
+## se
+
+## function
