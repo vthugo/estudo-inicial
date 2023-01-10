@@ -25,8 +25,8 @@ git diff | mostra as alterações de um arquivo\
 
 ## formas 
 
-## she
+### shel
 
-## se
+#### se
 
-## function
+##### function
