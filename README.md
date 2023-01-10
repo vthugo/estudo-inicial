@@ -1,8 +1,8 @@
 # estudo-inicial
 
 
-ls | lista
-cd | direciona
+ls | lista__
+cd | direciona\
 mkdir | criar arquivo/pasta
 clear | limpeza
 rm |excluir arquivo/ pasta
@@ -17,6 +17,7 @@ apt | instala pacotes de software
 clone | copiar um repositorio
 config| configurar repositorio 
 add | adiciona uma alteração no diretório de trabalho à área de preparação
-status |  exibe o estado do diretório de trabalho e da área de preparação 
+status |  exibe o estado do diretório de trabalho e da área de preparação <br/>
 commit |  é usado para salvar suas alterações no repositório local
 push | empurra commit ate a nuvem
+git diff | mostra as alterações de um arquivo
