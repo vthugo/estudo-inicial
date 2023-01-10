@@ -23,10 +23,19 @@ push | empurra commit ate a nuvem\
 git diff | mostra as alterações de um arquivo\
 
 
-## formas 
+## FORMAS 
 
-### shel
+### SHEL
 
-#### se
+#### SE
+if []; then
+fi
 
-##### function
+
+
+#### SE/SENAO
+if []; then
+else
+fi
+
+##### FUNCTION
