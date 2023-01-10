@@ -2,7 +2,7 @@
 
 
 ls | lista__
-cd | direciona\
+cd | direciona/
 mkdir | criar arquivo/pasta
 clear | limpeza
 rm |excluir arquivo/ pasta
