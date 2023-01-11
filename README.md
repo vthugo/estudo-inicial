@@ -47,16 +47,17 @@ function nome_da_funcao () {
 ```
 
 ### JAVA
-```java
-#### CLASSE
-package nome_do_caminho_das_pastas_ate_chegar_na_classe
-```
 
+#### CLASSE
 ```java
-##### FUNCTION MAN
+package nome_do_caminho_das_pastas_ate_chegar_na_classe
+
 public class nome_da_minha_classe{
 }
+```
 
-public static void main (string[]arg){
+##### FUNCTION MAIN
+```java
+public static void main (string[] args){
 }
 ```
