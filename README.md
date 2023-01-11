@@ -61,3 +61,16 @@ public class nome_da_minha_classe{
 public static void main (string[] args){
 }
 ```
+
+## INSTALAÇÃO
+
+### JAVA
+
+1. Baixar no site da oracle x64 Debian package
+2. instalar pacote do java 
+3. criar "JAVA_HOME" No  arquivo /home/vt/.bashrc
+4. adicionar "JAVA_HOME" na PATH
+5. confirmar instalação com: 
+```sh
+java --version
+```
