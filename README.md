@@ -12,7 +12,7 @@ pwd | imprime o caminho do diretorio de trabalho\
 nano | editor\
 ssh-keygen | criar um par de chaves\
 apt | instala pacotes de software\
-
+  
 ## GIT 
 clone | copiar um repositorio\
 config| configurar repositorio\
@@ -43,5 +43,20 @@ fi
 ##### FUNCTION
 ```sh
 function nome_da_funcao () {
+}
+```
+
+### JAVA
+```java
+#### CLASSE
+package nome_do_caminho_das_pastas_ate_chegar_na_classe
+```
+
+```java
+##### FUNCTION MAN
+public class nome_da_minha_classe{
+}
+
+public static void main (string[]arg){
 }
 ```
