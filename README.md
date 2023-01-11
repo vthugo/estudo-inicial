@@ -74,3 +74,17 @@ public static void main (string[] args){
 ```sh
 java --version
 ```
+
+## RESUMO
+### CONCEITOS BASICOS DE PROGAMAÇÃO
+ex: loops,instruções if,variaveis e arrys
+
+## 1º ATIVIDADE
+* criar uma conta de avaliação no "oracle cloud"
+* execultar o keygen para gerar chaves publicas e prividas
+* provisionará a estancia de computação da vm com a imagem do do "oracle cloud" que tera um software
+* configurar acesso de vnc
+* conectar com a maquina virtual vnc
+* baixar netbeans na maquina virtual e logo apos instalar
+* define o jdk
+* testa netbeans
