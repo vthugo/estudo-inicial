@@ -88,3 +88,71 @@ ex: loops,instruções if,variaveis e arrys
 * baixar netbeans na maquina virtual e logo apos instalar
 * define o jdk
 * testa netbeans
+
+### instruções binarias
+* 1's e 0's e com que hardware execute codigo
+
+### exemplos de progama c
+#iclude < stdio.h >
+int main (){
+  print F ("hello, word!");
+  return 0;
+}
+
+### JAVA: e uma linguagem de progamação de objetivo geral com uma 
+sintaxe e uma estrutura semelhantes a "C e C++". criado originalmente na sun microsystems
+en 1945
+#### beneficios
+* modularidade
+* implenta a ocultação de informações
+* facilita a reutilização do codigo
+* capacidade de manutenção
+
+##### objeto: um objeto pode usar outro objeto de diferentes formas e aplicações
+
+##### class
+* exemplo:
+    public class custumer {
+    	// feelds
+    	// methods
+    }
+
+##### pacote java: e uma fora de organizar classe relacionadas ela representa a 
+pasta na qual  classe sera salva.
+
+* exemplo: 
+package duke.choice;
+
+  public class customer {
+  // class body
+  //fields und methods are
+ placed here
+  }
+
+##### loops: e usados para execultar uma sequencia de instruções / funções
+repetidamente quando algumas condições tornam-se true
+
+##### variables: uma variavel refere-se a algo que pode ser alterado
+
+##### Valores inteiros e duplos
+
+* valores inteiros entre: 2,147,483,648
+* valores positivos: 2,147,483,647
+ * exemplos: 2,1343387,1_343_387
+
+variaveis duplos manterão valores, maiores contendo partes decimais e poderão ser
+numeros muito grandes ou pequenos
+
+##### valores duplos
+
+* exemplo: 987640059602230.7645,-1111, 2.1E12
+
+##### constantes
+
+* exemplo: 
+      duplo salestax= 6.25;
+salestax = 23.5;
+
+final int NUMBER_OF_MONTHS =12;
+NUMBER_OF_MONTHS =13; // não
+sera compilado
